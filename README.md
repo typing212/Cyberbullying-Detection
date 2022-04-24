@@ -7,7 +7,9 @@ Logistic Regression (LR), Support Vector Machine (SVM), Decision Tree (DT), Naiv
 
 ## Datasets
 Text Datasets: data05_text.csv (named as cyberbullying_tweets.csv in the codes)
+
 Image Datasets:
+
 @inproceedings{vishwamitra2021towards,
  title = {Towards Understanding and Detecting Cyberbullying in Real-world Images},
  author={Vishwamitra, Nishant and Hu, Hongxin and Luo, Feng and Cheng, Long},
@@ -18,15 +20,24 @@ Image Datasets:
 
 ## Codes
 code05_text_statistical+lstm+basic_bert.ipynb
+
 code05_text_RoBERTa.ipynb
+
 code05_text_data_augmentation.ipynb
+
 code05_text_RoBERTa+augmented data.ipynb
+
 code05_image_CNN.ipynb
 
 ## Collaborators
 BT5153 Group 5
+
 Mukeshwaran Baskaran (A0165086Y)  
+
 Nanhai Zhong (A0231953E) 
+
 Ng Boon Khai (A0231863E) 
+
 Kuan Ju Lin (A0231904M) 
+
 Chen Hong (A0231993X) 
