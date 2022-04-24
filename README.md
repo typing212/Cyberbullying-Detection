@@ -5,9 +5,25 @@ Cyberbullying, defined as the intentional use of digital technology to cause har
 ## Techniques
 Logistic Regression (LR), Support Vector Machine (SVM), Decision Tree (DT), Naive-Bayes (NB), long short term memory (LSTM), Bi-directional Encoder Representations from Transformers (BERT), RoBERTa, Convolutional Neural Networks (CNN)
 
+## Datasets
+Text Datasets: data05_text.csv (named as cyberbullying_tweets.csv in the codes)
+Image Datasets:
+@inproceedings{vishwamitra2021towards,
+ title = {Towards Understanding and Detecting Cyberbullying in Real-world Images},
+ author={Vishwamitra, Nishant and Hu, Hongxin and Luo, Feng and Cheng, Long},
+ booktitle={Proceedings of the 28th Annual Network and Distributed System Security Symposium},
+ year={2021},
+ organization={Internet Society}
+}
+
+## Codes
+code05_text_statistical+lstm+basic_bert.ipynb
+code05_text_RoBERTa.ipynb
+code05_text_data_augmentation.ipynb
+code05_text_RoBERTa+augmented data.ipynb
+code05_image_CNN.ipynb
 
 ## Collaborators
-
 BT5153 Group 5
 Mukeshwaran Baskaran (A0165086Y)  
 Nanhai Zhong (A0231953E) 
