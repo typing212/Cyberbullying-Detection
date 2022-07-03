@@ -30,14 +30,13 @@ code05_text_RoBERTa+augmented data.ipynb
 code05_image_CNN.ipynb
 
 ## Collaborators
-BT5153 Group 5
 
-Mukeshwaran Baskaran (A0165086Y)  
+Mukeshwaran Baskaran
 
-Nanhai Zhong (A0231953E) 
+Nanhai Zhong
 
-Ng Boon Khai (A0231863E) 
+Ng Boon Khai
 
-Kuan Ju Lin (A0231904M) 
+Kuan Ju Lin
 
-Chen Hong (A0231993X) 
+Chen Hong
